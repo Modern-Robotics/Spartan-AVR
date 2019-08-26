@@ -1,12 +1,12 @@
 {
   "packages": [
     {
-      "name": "myboard",
-      "maintainer": "Jane Developer",
-      "websiteURL": "https://github.com/janedeveloper/myboard",
-      "email": "jane@janedeveloper.org",
+      "name": "spartan",
+      "maintainer": "Modern Robotics Inc.",
+      "websiteURL": "http://www.modernroboticsinc.com",
+      "email": "support@modernroboticsinc.com",
       "help": {
-        "online": "http://janedeveloper.org/forum/myboard"
+        "online": "http://www.modernroboticsinc.com/spartan"
       },
       "platforms": [
         {
