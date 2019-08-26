@@ -17,10 +17,10 @@
           "help": {
             "online": "http://janedeveloper.org/forum/myboard"
           },
-          "url": "https://janedeveloper.github.io/myboard/myboard-1.0.0.zip",
-          "archiveFileName": "myboard-1.0.0.zip",
-          "checksum": "SHA-256:ec3ff8a1dc96d3ba6f432b9b837a35fd4174a34b3d2927de1d51010e8b94f9f1",
-          "size": "15005",
+          "url": "https://github.com/Modern-Robotics/Spartan-AVR/raw/master/modernrobotics-avr.zip",
+          "archiveFileName": "modernrobotics-avr.zip",
+          "checksum": "SHA-256:2999a05370ee91cf590409e08b3537c5b00082fc93d5e1749ac8ff5e3b237baf",
+          "size": "188669",
           "boards": [
             {"name": "Core Spartan Controller"}
           ],
