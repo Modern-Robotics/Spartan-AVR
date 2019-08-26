@@ -10,12 +10,12 @@
       },
       "platforms": [
         {
-          "name": "My Board",
+          "name": "Modern Robotics AVR Boards",
           "architecture": "avr",
           "version": "1.0.0",
-          "category": "Contributed",
+          "category": "Spartan",
           "help": {
-            "online": "http://janedeveloper.org/forum/myboard"
+            "online": "http://www.modernroboticsinc.com/spartan"
           },
           "url": "https://janedeveloper.github.io/myboard/myboard-1.0.0.zip",
           "archiveFileName": "myboard-1.0.0.zip",
