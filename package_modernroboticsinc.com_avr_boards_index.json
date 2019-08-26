@@ -13,7 +13,7 @@
           "name": "Modern Robotics AVR Boards",
           "architecture": "avr",
           "version": "1.0.0",
-          "category": "Contributed",
+          "category": "Spartan",
           "help": {
             "online": "http://www.modernroboticsinc.com/spartan"
           },
@@ -25,11 +25,6 @@
             {"name": "Core Spartan Controller"}
           ],
           "toolsDependencies": [
-            {
-              "packager": "arduino",
-              "name": "avr-gcc",
-              "version": "4.8.1-arduino5"
-            },
             {
               "packager": "arduino",
               "name": "avrdude",
